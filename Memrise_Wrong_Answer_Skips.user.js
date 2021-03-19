@@ -4,6 +4,10 @@
 // @description    Cut back on certain extra screens and item repeats when you answer incorrectly
 // @match          https://www.memrise.com/course/*/garden/*
 // @match          https://www.memrise.com/garden/review/*
+// @match          https://app.memrise.com/course/*/garden/*
+// @match          https://app.memrise.com/garden/review/*
+// @match          https://decks.memrise.com/course/*/garden/*
+// @match          https://decks.memrise.com/garden/review/*
 // @version        0.0.7
 // @updateURL      https://github.com/cooljingle/memrise-wrong-answer-skips/raw/master/Memrise_Wrong_Answer_Skips.user.js
 // @downloadURL    https://github.com/cooljingle/memrise-wrong-answer-skips/raw/master/Memrise_Wrong_Answer_Skips.user.js
